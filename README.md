@@ -183,7 +183,8 @@ Accept then create project
 
 ### 1 - New Collection: Screams
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/975c3264-b128-45bd-821c-47d68c7a18b2/Screenshot_2021-06-11_at_01.43.46.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/975c3264-b128-45bd-821c-47d68c7a18b2/Screenshot_2021-06-11_at_01.43.46.png)
+<img src="@/../README/2.png" width="100%"  />
+
 
 ### 2 - create the functions
 
