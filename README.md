@@ -125,7 +125,8 @@
 
 @Firebase Console
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77b2cde6-1242-438d-80f5-8dc89c619cd6/Screenshot_2021-06-11_at_01.24.40.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77b2cde6-1242-438d-80f5-8dc89c619cd6/Screenshot_2021-06-11_at_01.24.40.png)
+<img src="@/../README/1.png" width="100%"  />
+
 
 Details: 
 
